@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "atak",
-    "currentPage": "about.html",
+    "currentPage": "fotos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2266,7 +2266,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/srf2-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "SRF 2017",
                 "active": false
               },
               {
@@ -2278,7 +2278,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/srf3-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "SRF 2017",
                 "active": false
               },
               {
@@ -2290,7 +2290,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/kviko-web-1200x800-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Sielnica 2017",
                 "active": false
               },
               {
@@ -2302,7 +2302,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/skup-1-800x534.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "atak",
                 "active": true
               }
             ]
